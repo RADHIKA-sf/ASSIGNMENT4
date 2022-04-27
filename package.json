@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "lite-server": "^2.6.1",
+    "node": "^17.7.1",
+    "typescript": "^4.6.2"
+  },
+  "name": "assignment4",
+  "version": "1.0.0",
+  "main": "(./dist/app.js)",
+  "dependencies": {
+    "node-bin-setup": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Radhika",
+  "license": "ISC",
+  "description": ""
+}
